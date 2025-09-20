@@ -121,9 +121,13 @@ KD Jewellers is a full-featured e-commerce mobile application designed specifica
 ## 📱 Screenshots
 
 ### Main Features
-![Home Screen](https://via.placeholder.com/300x600/4CAF50/FFFFFF?text=Home+Screen)
-![Product Catalog](https://via.placeholder.com/300x600/2196F3/FFFFFF?text=Product+Catalog)
-![Shopping Cart](https://via.placeholder.com/300x600/FF9800/FFFFFF?text=Shopping+Cart)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0332c04-cb0d-42dd-8493-b99e5ef467b9" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a62b9e3b-030f-42b8-997f-39d0e7e563bc" width="200"/>
+  <img src="https://github.com/user-attachments/assets/45a22362-5639-49c4-b6c5-5eb0306d46d3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6c56a990-5567-41f2-803a-69d51a34871b" width="200"/>    
+</p>
 
 ### User Experience
 ![Search Results](https://via.placeholder.com/300x600/9C27B0/FFFFFF?text=Search+Results)
@@ -183,7 +187,7 @@ This project is for demonstration purposes and showcases various Android develop
 
 ## 👨‍💻 Developer
 
-**Kishan** - Android Developer
+**Mahesh** - Android Developer
 - Specialized in Kotlin and modern Android development
 - Expertise in Firebase integration and e-commerce systems
 - Focus on clean architecture and user experience
