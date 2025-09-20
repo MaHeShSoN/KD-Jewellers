@@ -2,6 +2,25 @@
 
 A comprehensive jewelry e-commerce Android application built with modern technologies, featuring dynamic pricing, real-time inventory management, and a complete shopping experience.
 
+## 📱 Screenshots
+
+### Main Features
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0332c04-cb0d-42dd-8493-b99e5ef467b9" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a62b9e3b-030f-42b8-997f-39d0e7e563bc" width="200"/>
+  <img src="https://github.com/user-attachments/assets/45a22362-5639-49c4-b6c5-5eb0306d46d3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6c56a990-5567-41f2-803a-69d51a34871b" width="200"/>    
+</p>
+
+### User Experience
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a8f279b-d069-419c-aa28-cd7a8c08d8f5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7e6cf2e2-2994-4a50-9536-ddbefc521dd4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/211dafaa-c6bf-4a9c-bf5b-379dd83af110" width="200"/>
+</p>
+
 ## 🚀 Project Overview
 
 KD Jewellers is a full-featured e-commerce mobile application designed specifically for jewelry retail. The app provides customers with an intuitive shopping experience while offering real-time pricing based on current metal rates, comprehensive inventory management, and secure order processing.
@@ -117,22 +136,6 @@ KD Jewellers is a full-featured e-commerce mobile application designed specifica
 - ✅ **Comprehensive error handling** with user feedback
 - ✅ **Type-safe code** with Kotlin's null safety
 - ✅ **Modern Android practices** with latest APIs
-
-## 📱 Screenshots
-
-### Main Features
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b0332c04-cb0d-42dd-8493-b99e5ef467b9" width="200"/>
-  <img src="https://github.com/user-attachments/assets/a62b9e3b-030f-42b8-997f-39d0e7e563bc" width="200"/>
-  <img src="https://github.com/user-attachments/assets/45a22362-5639-49c4-b6c5-5eb0306d46d3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/6c56a990-5567-41f2-803a-69d51a34871b" width="200"/>    
-</p>
-
-### User Experience
-![Search Results](https://via.placeholder.com/300x600/9C27B0/FFFFFF?text=Search+Results)
-![Order Management](https://via.placeholder.com/300x600/607D8B/FFFFFF?text=Order+Management)
-![User Profile](https://via.placeholder.com/300x600/E91E63/FFFFFF?text=User+Profile)
 
 ## 🚀 Getting Started
 
